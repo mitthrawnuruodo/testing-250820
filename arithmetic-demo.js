@@ -1,10 +1,10 @@
 // Arithmetic Operators Demo
 
 // 1. Addition
-console.log("Addition: 5 + 3 =", 5 + 3);
+console.log("Addition: 5 + 4 =", 5 + 4);
 
 // 2. Subtraction
-console.log("Subtraction: 5 - 3 =", 5 - 3);
+console.log("Subtraction: 5 - 2 =", 5 - 2);
 
 // 3. Multiplication
 console.log("Multiplication: 5 * 3 =", 5 * 3);
